@@ -5,6 +5,7 @@ using std::getline;
 using std::cin;
 using std::cout;
 using std::endl;
+
 int main()
 {
     string str, sum, sum2;
